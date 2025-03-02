@@ -1,4 +1,4 @@
-# 🏆 AI Cup 2024 E.SUN Financial Question Answering Challenge
+# 🏆 AI Cup 2024 E.SUN Financial Question Answering Challenge Rank : 62/487
 
 ## 📝 Project Introduction
 
